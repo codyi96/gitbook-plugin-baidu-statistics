@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-baidu-statistics",
+  "version": "1.0.0",
+  "description": "This is a GitBook plugin.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": ">=2.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyi96/gitbook-plugin-baidu-statistics.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "baidu"
+  ],
+  "author": "codyi96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codyi96/gitbook-plugin-baidu-statistics/issues"
+  },
+  "homepage": "https://github.com/codyi96/gitbook-plugin-baidu-statistics#readme"
+}
